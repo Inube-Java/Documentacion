@@ -12,7 +12,6 @@ Este proyecto de consola muestra ejemplos de uso de los tipos de datos primitivo
 * double
 * char
 * boolean
-* Prueba de merge
 
 ### Requisitos
 
