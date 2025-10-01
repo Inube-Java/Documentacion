@@ -5,6 +5,8 @@
 * [Datos Primitivos VS Wrapper](datos-primitivos-vs-wrapper.md)
 * [Object String](object-string.md)
 * [Tipos de Datos Avanzados](tipos-de-datos-avanzados.md)
+* [Condicionales](condicionales.md)
+* [Bucles](bucles.md)
 * [Listas](listas.md)
 * [Listas de Objetos](listas-de-objetos.md)
 * [Map](map.md)
