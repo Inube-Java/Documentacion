@@ -14,10 +14,10 @@ TiposAvanzados/\
 │ └── Main.java\
 │── README.md
 
-[https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html](https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/math/BigDecimal.html" %}
 
-[https://docs.oracle.com/javase/8/docs/api/java/math/BigInteger.html](https://docs.oracle.com/javase/8/docs/api/java/math/BigInteger.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/math/BigInteger.html" %}
 
-[https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/time/LocalDate.html" %}
 
-[https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html" %}

@@ -34,4 +34,4 @@ Listas/\
 │ └── Main.java\
 │── README.md
 
-[https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/util/List.html" %}

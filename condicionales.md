@@ -28,4 +28,4 @@ Condicionales/\
 │ └── Main.java\
 │── README.md
 
-[https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html)
+{% embed url="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html" %}

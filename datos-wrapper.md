@@ -23,4 +23,4 @@ DatoWrapper/\
 │ └── Main.java\
 │── README.md
 
-[https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/java/sql/Wrapper.html](https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/java/sql/Wrapper.html)
+{% embed url="https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/java/sql/Wrapper.html" %}

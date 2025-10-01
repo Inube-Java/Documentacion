@@ -73,4 +73,4 @@ String e = new String("Hola").intern();
 3. **`intern()`** → hace que el String apunte al **String Pool** si ya existe un literal igual.
 4. **Concatenaciones** → crean **nuevos objetos** porque los Strings son **inmutables**.
 
-[https://docs.oracle.com/javase/8/docs/api/java/lang/String.html](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)
+{% embed url="https://docs.oracle.com/javase/8/docs/api/java/lang/String.html" %}
